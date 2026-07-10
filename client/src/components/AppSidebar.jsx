@@ -6,9 +6,7 @@ function AppSidebar({ stats }) {
     <aside className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm lg:sticky lg:top-6 lg:h-[calc(100vh-3rem)]">
       <div className="flex items-center justify-between gap-4">
         <div>
-          <p className="text-xs font-bold uppercase text-emerald-700">
-            MERN Workspace
-          </p>
+         
           <h1 className="mt-1 text-3xl font-black tracking-normal">
             Todo List
           </h1>
